@@ -2,7 +2,7 @@ NOTE: this O.S is still in alpha phase
 
 beginners guide
 Note: This guide is for rare or less common CYD (Cheap Yellow Display) models, specifically the 2.8-inch ILI9341 320x240 resolution screen with a capacitive touchscreen.
-I have been searching nonstop for an OS for my 2.8-inch CYD. I tried Tactility (but could not figure it out) and MicroPython (it did not seem to work; the LED strobed, and the display just stayed black). This setup finally worked for me.
+I have been searching nonstop for an OS for my 2.8-inch CYD. I tried Tactility (but could not figure it out) and MicroPython (it did not seem to work; the LED strobed, and the display just stayed black). I gave up and created my own.
 
 
 Arduino IDE Setup
