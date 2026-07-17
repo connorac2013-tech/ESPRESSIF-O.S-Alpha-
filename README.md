@@ -1,4 +1,5 @@
 NOTE: this O.S is still in alpha phase
+stable ver should be available by: 8/16/2026
 
 beginners guide
 Note: This guide is for rare or less common CYD (Cheap Yellow Display) models, specifically the 2.8-inch ILI9341 320x240 resolution screen with a capacitive touchscreen.
