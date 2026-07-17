@@ -1,0 +1,23 @@
+=========== additions ============
+added cpu (core 0) %
+added gpu (core 1) %
+added low energy mode
+added vsync
+
+============fixes==============
+repaired cpu temp readings
+repaired touch latency
+
+========= to come ===========
+speaker suppourt
+graceful shutdown
+repaired clock 
+repaired NAT
+art saves to sd or flash
+save notes to sd or flash
+sd encryption (may be buggy or slow)
+improved calendar
+repaired terminal
+lipo viewer (may not work)
+graceful thermal protection
+greater device suppourt
